@@ -213,7 +213,7 @@ public class TeamController {
                     - 팀장만 가능
 
                     [참조 테이블]
-                    - UPDATE: team
+                    - UPDATE: team 
                     """
     )
     @ApiResponses({
